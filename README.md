@@ -1,0 +1,2 @@
+# TD-W9970-V4
+FİRMWARE
